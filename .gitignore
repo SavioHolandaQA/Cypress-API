@@ -1,18 +1,8 @@
-# Ignorar node_modules
-/node_modules/
-
-# Ignorar arquivos temporários do editor
-.vscode/
-
-# Ignorar screenshots e vídeos do Cypress
-/cypress/screenshots/
-/cypress/videos/
-
-# Ignorar a configuração do Cypress
-/cypress.config.js
-
-
-
+.DS_Store
+node_modules/
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
 
 
 
